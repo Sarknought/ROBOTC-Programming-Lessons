@@ -1,8 +1,8 @@
 # Catalogue of Topics
 
-## Unit 1 - Basics
+## [Unit 1 - Basics](https://github.com/Sarknought/ROBOTC_Introductory_Programming/tree/master/Unit%201%20-%20Basics)
 
-### Chapter 1 - Test Kit
+### [Chapter 1 - Test Kit](https://github.com/Sarknought/ROBOTC_Introductory_Programming/tree/master/Unit%201%20-%20Basics/Chapter%201%20-%20Test%20Kit)
 
 * Test kit assembling (2-7)
 *	Plugging in wires (2 pins / 3 pins) (6)
@@ -21,7 +21,7 @@ Related code file:
 
 * [Lesson 2 - Test Kit Example Code](https://drive.google.com/file/d/15RVDRFdA4eFDDLTfE_BA9WOLCJr2UAJm/view?usp=sharing)
 
-### Chapter 2 - If Statements and While Loops
+### [Chapter 2 - If Statements and While Loops](https://github.com/Sarknought/ROBOTC_Introductory_Programming/tree/master/Unit%201%20-%20Basics/Chapter%202%20-%20If%20Statements%20and%20While%20Loops)
 
 *	Setting up / Plugging in a button / limit switch (4)
 *	Configuring / Naming the button / limit switch (5)
@@ -39,7 +39,7 @@ Related code file:
 
 * [Lesson 2 - Test Kit Example Code](https://drive.google.com/file/d/15RVDRFdA4eFDDLTfE_BA9WOLCJr2UAJm/view?usp=sharing)
 
-### Chapter 3 - Joystick Controls
+### [Chapter 3 - Joystick Controls](https://github.com/Sarknought/ROBOTC_Introductory_Programming/tree/master/Unit%201%20-%20Basics/Chapter%203%20-%20Joystick%20Controls)
 
 *	A look at the remote controller / joysticks (3)
 *	Two joystick drive / Tank drive (5-10)
@@ -55,9 +55,9 @@ Related code files:
 * [Lesson 2 - Two Joystick Drive](https://drive.google.com/file/d/1UIWCzUsFJabWL9MC6pVHsmjAjwDnJUwV/view?usp=sharing)
 * [Lesson 3 - One Joystick Drive](https://drive.google.com/file/d/1m_d3RAVEjvfhYx4SquL_xkmYo_X-gBnv/view?usp=sharing)
 
-## Unit 2 - Intermediate
+## [Unit 2 - Intermediate](https://github.com/Sarknought/ROBOTC_Introductory_Programming/tree/master/Unit%202%20-%20Intermediate/Chapter%201%20-%20H-Drive)
 
-## Chapter 1 - H-Drive
+## [Chapter 1 - H-Drive](https://github.com/Sarknought/ROBOTC_Introductory_Programming/tree/master/Unit%202%20-%20Intermediate/Chapter%201%20-%20H-Drive)
 
 *	H drive and what it does; steering wheel directions (3-4)
 *	Reversing the steering wheel (5)
