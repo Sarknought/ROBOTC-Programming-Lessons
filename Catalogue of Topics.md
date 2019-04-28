@@ -57,7 +57,7 @@ Related code files:
 
 ## [Unit 2 - Intermediate](https://github.com/Sarknought/ROBOTC_Introductory_Programming/tree/master/Unit%202%20-%20Intermediate/Chapter%201%20-%20H-Drive)
 
-## [Chapter 1 - H-Drive](https://github.com/Sarknought/ROBOTC_Introductory_Programming/tree/master/Unit%202%20-%20Intermediate/Chapter%201%20-%20H-Drive)
+### [Chapter 1 - H-Drive](https://github.com/Sarknought/ROBOTC_Introductory_Programming/tree/master/Unit%202%20-%20Intermediate/Chapter%201%20-%20H-Drive)
 
 *	H drive and what it does; steering wheel directions (3-4)
 *	Reversing the steering wheel (5)
