@@ -1,8 +1,8 @@
 # Catalogue of Topics
 
-## [Unit 1 - Basics](https://github.com/Sarknought/ROBOTC_Introductory_Programming/tree/master/Unit%201%20-%20Basics)
+## Unit 1 - Basics
 
-### [Chapter 1 - Test Kit](https://github.com/Sarknought/ROBOTC_Introductory_Programming/tree/master/Unit%201%20-%20Basics/Chapter%201%20-%20Test%20Kit)
+### Chapter 1 - Test Kit
 
 * Test kit assembling (2-7)
 *	Plugging in wires (2 pins / 3 pins) (6)
@@ -19,9 +19,9 @@
 
 Related code file:
 
-* [Lesson 2 - Test Kit Example Code](https://drive.google.com/file/d/15RVDRFdA4eFDDLTfE_BA9WOLCJr2UAJm/view?usp=sharing)
+* Lesson 2 - Test Kit Example Code
 
-### [Chapter 2 - If Statements and While Loops](https://github.com/Sarknought/ROBOTC_Introductory_Programming/tree/master/Unit%201%20-%20Basics/Chapter%202%20-%20If%20Statements%20and%20While%20Loops)
+### Chapter 2 - If Statements and While Loops
 
 *	Setting up / Plugging in a button / limit switch (4)
 *	Configuring / Naming the button / limit switch (5)
@@ -37,9 +37,9 @@ Related code file:
 
 Related code file:
 
-* [Lesson 2 - Test Kit Example Code](https://drive.google.com/file/d/15RVDRFdA4eFDDLTfE_BA9WOLCJr2UAJm/view?usp=sharing)
+* Lesson 2 - Test Kit Example Code
 
-### [Chapter 3 - Joystick Controls](https://github.com/Sarknought/ROBOTC_Introductory_Programming/tree/master/Unit%201%20-%20Basics/Chapter%203%20-%20Joystick%20Controls)
+### Chapter 3 - Joystick Controls
 
 *	A look at the remote controller / joysticks (3)
 *	Two joystick drive / Tank drive (5-10)
@@ -52,12 +52,12 @@ Related code file:
 
 Related code files:
 
-* [Lesson 2 - Two Joystick Drive](https://drive.google.com/file/d/1UIWCzUsFJabWL9MC6pVHsmjAjwDnJUwV/view?usp=sharing)
-* [Lesson 3 - One Joystick Drive](https://drive.google.com/file/d/1m_d3RAVEjvfhYx4SquL_xkmYo_X-gBnv/view?usp=sharing)
+* Lesson 2 - Two Joystick Drive
+* Lesson 3 - One Joystick Drive
 
-## [Unit 2 - Intermediate](https://github.com/Sarknought/ROBOTC_Introductory_Programming/tree/master/Unit%202%20-%20Intermediate/Chapter%201%20-%20H-Drive)
+## Unit 2 - Intermediate
 
-### [Chapter 1 - H-Drive](https://github.com/Sarknought/ROBOTC_Introductory_Programming/tree/master/Unit%202%20-%20Intermediate/Chapter%201%20-%20H-Drive)
+### Chapter 1 - H-Drive
 
 *	H drive and what it does; steering wheel directions (3-4)
 *	Reversing the steering wheel (5)
@@ -70,5 +70,5 @@ Related code files:
 
 Related code files:
 
-* [Lesson 2 - H-Drive (Joystick Strafing)](https://drive.google.com/file/d/1aoGrEKGxblZ4atWKQxE0_M-xTlT9zOsR/view?usp=sharing)
-* [Lesson 3 - H-Drive (Button Strafing)](https://drive.google.com/file/d/1veMdIql6PMSP4HMAmbA48BKalZxZG8gD/view?usp=sharing)
+* Lesson 2 - H-Drive (Joystick Strafing)
+* Lesson 3 - H-Drive (Button Strafing)
