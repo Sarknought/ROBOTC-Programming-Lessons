@@ -72,3 +72,7 @@ Related code files:
 
 * Lesson 2 - H-Drive (Joystick Strafing)
 * Lesson 3 - H-Drive (Button Strafing)
+
+#### Disclaimer
+
+This repository has been archived and will not be updated. The content is accurate as of 2019.
